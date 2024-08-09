@@ -25,7 +25,7 @@ class ShoeTile extends StatelessWidget {
             child: Image.asset(shoe.imagePath),
           ),
 
-          // description
+          // descriptions
           Padding(
             padding: const EdgeInsets.symmetric(
               horizontal: 25.0,
